@@ -1,4 +1,4 @@
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/greysonj92/reactgofrontend
+	url = git@github.com:greysonj92/reactgofrontend.git
 	branch = main
